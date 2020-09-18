@@ -1,4 +1,4 @@
-# axLabelPlus
+# axLabelPlus v1.5.9
 
  Fork of Awesome LabelPlus VB6 UserControl from Leandro Ascierto
 
@@ -8,49 +8,28 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
+Nothing, use from Win7 ahead
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
+Copy Files to your Project folder, include/reference to this and set this usercontrol to Private
 
 ```
-Give the example
+axLabelPlus.ctl
+axLabelPlus.ctx
 ```
 
-And repeat
+Or Compile the usercontrol to OCX (ActiveX), and reference to your VB6 Project
 
 ```
-until finished
+AXLPCTRL.OCX
 ```
 
-End with an example of getting some data out of the system or using it for a little demo
+...
 
-## Running the tests
 
-Explain how to run the automated tests for this system
 
-### Break down into end to end tests
 
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
 
 ## Deployment
 
@@ -58,13 +37,7 @@ Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+* Clasic and Beloved Visual Basic 6 SP6
 
 ## Versioning
 
@@ -72,7 +45,9 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Leandro Ascierto** - *Initial work* - [Leandro Ascierto VB6 Latin Blog & Forums](http://leandroascierto.com/blog/)
+
+* **AxioUK** - David Rojas *Editor & Forum User* - [Leandro Ascierto VB6 Latin Blog & Forums](http://leandroascierto.com/blog/)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
